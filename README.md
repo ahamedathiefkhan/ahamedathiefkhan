@@ -68,9 +68,10 @@ I'm excited to build projects and learn from the community. My GitHub will showc
 
 I'm always open to learning, collaborating, and connecting with the developer and AI community!
 
-- 📧 **Email**: [Your Email Here]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [Your Twitter Handle (Optional)]
+
+**📧 Email:** [ahamedathiefkhan@gmail.com](mailto:ahamedathiefkhan@gmail.com)
+
+**💼 LinkedIn:** [linkedin.com/in/ahamed-athief-khan](https://linkedin.com/in/ahamed-athief-khan)
 
 ---
 
