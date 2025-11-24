@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ahamed Athil Khan
+# Hi there! 👋 I'm Ahamed Athief Khan
 
 Welcome to my GitHub! I'm a **first-year B.Tech AI & Data Science student** passionate about exploring the world of **Artificial Intelligence and Machine Learning**. 
 
